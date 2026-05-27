@@ -1,2 +1,6 @@
-# CODTECH_POWER-BI_INTERNSHIP
-I used Power BI , Python , SQL &amp; Excel for better analyzation of data and create an interactive dashboard
+Name - Priyanshi Mulewa
+Domin Name - Power BI
+Company Name - Codtech IT Solutions Private Limited
+Intern ID - CITS274
+Duaration - 12 weeks
+Internship Period - 13 May 2026- 05 August 2026
